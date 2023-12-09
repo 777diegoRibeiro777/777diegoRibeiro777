@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Minha área de preferência é o Front-end.
+- 🔭 Atuo como desenvolvedor Fullstack.
 - 🌱 Estou me aprofundando em Javascript e toda a sua stack.
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele.
 - ⚡ Um fato: Amo animações dos mais variados tipos (Aceito recomendações)!!!!
 
 ##
